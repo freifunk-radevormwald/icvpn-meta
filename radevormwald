@@ -1,0 +1,19 @@
+tech-c:
+  - freifunk-rade@life.de
+asn: 65077
+networks:
+  ipv4:
+    - 10.57.0.0/16
+  ipv6:
+    - fda0:747e:ab29:2195::/64
+# Wird von wupper noch festgelegt:
+# bgp:
+#   radevormwald1:
+#    ipv4: 10.57.x.x
+#    ipv6: 
+# domains:
+#   - ffrade
+#   - ffrvd
+# nameservers:
+#  - 10.x.x.x
+#  - 10.x.x.x
